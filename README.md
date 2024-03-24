@@ -32,3 +32,14 @@ Welcome to my GitHub profile! I'm currently a student in 9th-grade with a passio
 - [System Components Access Point](https://github.com/Johann-FullHD/System-Components-Access-Point) - A tool I developed to present system information neatly in a GUI.
 
 _I'm always eager to learn more and take on new challenges. If you ever want to talk about programming, school projects, or tech in general, feel free to reach out through the issues on one of my repositories!_
+
+## How to Reach Me
+
+I'm excited to connect with other tech enthusiasts, students and anyone interested in the world of coding and technology. Here's how you can get in touch with me:
+
+- **GitHub**: Feel free to start a conversation or ask a question by opening an issue on one of my repositories.
+- **Email**: For a more direct line of communication, my inbox is always open at `kjohann1908@gmail.com` .
+- **YouTube**: Check out my [TrainGamingCentral](https://www.youtube.com/@trainspotter.dresden) for videos I've created around my interests and projects.
+- **Instagram**: Follow me on Instagram [@trainspotter.dresden](https://www.instagram.com/trainspotter.dresden/) to get a glimpse of my life outside of coding.
+
+While my studies keep me quite busy, I do my best to respond to messages and inquiries as swiftly as possible. I'm looking forward to hearing from you!
