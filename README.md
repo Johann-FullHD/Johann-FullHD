@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm currently a student in 9th-grade with a passio
 ## School Projects
 
 - [System Components Access Point](https://github.com/Johann-FullHD/System-Components-Access-Point) - A tool I developed to present system information neatly in a GUI.
+- [Simple Clock](https://github.com/Johann-FullHD/Clock) - A small project that explains the GUI and how to code a clock (on german).
 
 _I'm always eager to learn more and take on new challenges. If you ever want to talk about programming, school projects, or tech in general, feel free to reach out through the issues on one of my repositories!_
 
