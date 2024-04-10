@@ -13,13 +13,28 @@ Welcome to my GitHub profile! I'm currently a student in 9th-grade with a passio
 
 ## My GitHub Contributions
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Johann-FullHD&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Johann's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johann-FullHD&theme=dark" alt="Johann's Contribution Streak">
-</p>
+<table align="center">
+  <tr>
+    <!-- Top Languages Card -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johann-FullHD&layout=compact&theme=radical" alt="Johann's Top Languages Card" />
+    </td>
+    <!-- GitHub Stats -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Johann-FullHD&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Johann's GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Contribution Streak -->
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Johann-FullHD&theme=dark" alt="Johann's Contribution Streak">
+    </td>
+    <!-- Quote -->
+    <td align="center" width="50%">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+    </td>
+  </tr>
+</table>
 
 ## Technologies & Tools
 
