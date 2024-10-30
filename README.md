@@ -1,6 +1,6 @@
 # Hello, I'm Johann Kramer 👋
 
-Welcome to my GitHub profile! I'm currently a student in 9th-grade with a passion for programming and photography. As I'm continuing my learning journey, I'm excited to explore various fields of computing and develop projects that will help me grow and share what I've learned.
+Welcome to my GitHub profile! I'm currently a student in 10th-grade with a passion for programming and photography. As I'm continuing my learning journey, I'm excited to explore various fields of computing and develop projects that will help me grow and share what I've learned.
 
 ## About Me
 
